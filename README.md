@@ -1,3 +1,7 @@
+# Overview
+This is a simple project that follows the getting started guide for redwoodjs. Redwoodjs is an opioninated full stack development frameowrk. I wanted to experiment and create a simple project to get a glimpse view of their development experience.
+
+Below is the original readme generated.
 # Redwood
 >**HEADS UP:** RedwoodJS is _NOT_ ready for use in Production. It relies heavily on Prisma2, which is currently in testing with an expected production release coming soon. See status at ["Is Prisma2 Ready?"](https://isprisma2ready.com)
 
